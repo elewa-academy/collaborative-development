@@ -1,6 +1,6 @@
 ## Paths of communication in collaborative development
 
-![](./rhetorcial-situation.png)
+![](./rhetorical-situation.png)
 
 ___
 ___
